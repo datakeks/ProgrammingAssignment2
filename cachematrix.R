@@ -1,4 +1,4 @@
-## The makeCacheMatric and cacheSolve functions are used to cache the inverse of a matrix in order to
+## The makeCacheMatrix and cacheSolve functions are used to cache the inverse of a matrix in order to
 ## save time and processing by returning a cache of an inverse instead of calculating it again and again.
 ## It is assumed that the matrix supplied is always invertable. 
 ## Some example usage:
